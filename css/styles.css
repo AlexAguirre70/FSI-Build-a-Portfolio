@@ -1,13 +1,25 @@
-body {
-    background-color: darkgray;
-    font-size: medium;
+ body {
+    background-color: #e6e6e6;
+    font-size: 18px;
     cursor: crosshair;
+    padding: 15px;
 }
 
 img {
     border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+    border-color:#1e347d ;
+    border-style: double;
 }
 
 h1 {
-    color: #ff9c2c;
+    color: #1e347d ;
+}
+
+hr {
+    
+    size: 10px;
+    max-width: 500px;
+
 }
